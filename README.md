@@ -29,7 +29,7 @@ A Python script that recommends recent arXiv papers based on the semantic simila
 Run the script from the command line:
 
 ```bash
-python script_name.py
+python gimme-some-good-papers-please.py
 ```
 
 The script will print a list of recent arXiv papers from the targeted categories whose abstracts are semantically similar to papers in your Zotero library.

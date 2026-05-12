@@ -1,7 +1,7 @@
 [project]
 name = "franco"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python script that recommends recent arXiv papers based on the semantic similarity to the user's existing Zotero library. It uses Sentence Transformers to compute embeddings and filters papers by a cosine similarity threshold."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
